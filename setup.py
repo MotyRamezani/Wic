@@ -1,5 +1,3 @@
-from distutils.core import setup
-
 setup(
     name='babelnetpy',
     packages = ['babelnetpy'],
